@@ -1,7 +1,7 @@
 ### :arrow_right: Meus experimentos com parsing
 
 <p align='center'>
-    <img src="extras/images/logo.jpeg" width="250" >
+    <img src="extras/images/logo.jpeg" width="180" >
 </p>
 
 <p align="center">
