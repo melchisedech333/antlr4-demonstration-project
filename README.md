@@ -13,23 +13,35 @@ Este é o projeto de demonstração para ANTLR4, onde é gerado arquivos em C++.
 
 O projeto está configurado para ser utilizado em sistemas operacionais GNU/Linux.
 
+Obs: o arquivo em C++ de controle do seu parsing está em: <b>project/demo/Linux/main.cpp</b>
+
 <b>Pré-requisitos:</b>
 - Ter o Java instalado, versão utilizada nos testes: openjdk 11.0.13 2021-10-19
 - Ter o pacote Java do ANTLR4 (o mesmo já vem incluso dentro do diretório de demonstração, arquivo: antlr-4.9.2-complete.jar)
 - Ter o CMAKE instalado, versão utilizada: 3.16.3
 
 <b>Instruções para realizar a compilação do projeto:</b>
-- Dar permissões para o arquivo <b>clean-and-compile.sh</b> e <b>compile.sh</b>
+- Dar permissões para os arquivos:
 ```bash
+chmod +x clean.sh
 chmod +x clean-and-compile.sh
-chmod +x compile.sh
+chmod +x re-compile.sh
 ```
-- Executar o arquivo <b>clean-and-compile.sh</b>.
+- Executar o arquivo <b>clean-and-compile.sh</b>:
 ```bash
 ./clean-and-compile.sh
 ```
 
-Após a compilação ser bem-sucedida será gerado o arquivo do binário em: <b>project/build/demo/antlr4-demo</b> 
-O arquivo em C++ de controle do seu parsing está em: <b>project/demo/Linux/main.cpp</b>
+Após a compilação ser bem-sucedida será gerado o arquivo do binário em: <b>project/build/demo/antlr4-demo</b>.
+No entando o script sempre copia o binário final para o diretório em questão, renomeando o mesmo para <b>parsing</b>.
+
+<b>Descrição dos arquivos:</b>
+- clean.sh - Limpa todos os arquivos temporários e arquivos de compilação.
+- clean-and-compile.sh - Limpa todos os arquivos e reconstrói binários do projeto.
+- re-compile.sh - Limpa arquivos temporários e reconstrói projeto sem necessitar recompilá-lo como um todo.
+- project/ - diretório contendo todos os arquivos do projeto.
+- project/demo/TLexer.g4 - Arquivo Lexer.
+- project/demo/TParser.g4 - Arquivo Parser.
+- project/demo/Linux/main.cpp - Arquivo C++ de controle do parser.
 
 
