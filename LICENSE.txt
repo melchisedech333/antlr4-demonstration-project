@@ -1,4 +1,4 @@
-Copyright (c) 2012-2022 Melch1sed3ch
+Copyright (c) 2022, Melch1sed3ch.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
