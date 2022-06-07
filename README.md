@@ -19,6 +19,8 @@ The project is configured to be used on GNU/Linux operating systems.
 
 Note: your parsing control file in C++ is at: <b>project/demo/Linux/main.cpp</b>
 
+**If my code has helped you, please consider [sponsoring me](https://github.com/sponsors/melchisedech333) :blue_heart:** 
+
 <br>
 
 :bookmark_tabs: Table of Contents
