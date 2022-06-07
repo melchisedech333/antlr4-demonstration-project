@@ -21,6 +21,16 @@ Note: your parsing control file in C++ is at: <b>project/demo/Linux/main.cpp</b>
 
 <br>
 
+:bookmark_tabs: Table of Contents
+-----
+* [Installation](#hammer_and_wrench-installation)
+* [References and Links](#link-references-and-links)
+* [Author](#smiley-author)
+* [License](#scroll-license)
+-----
+
+<br>
+
 :hammer_and_wrench: Installation
 ---
 
@@ -57,7 +67,7 @@ No entando o script sempre copia o binário final para o diretório em questão,
 
 <br>
 
-:link: Links e referências
+:link: References and Links
 ---
 
 - https://github.com/antlr/antlr4/blob/master/doc/cpp-target.md
