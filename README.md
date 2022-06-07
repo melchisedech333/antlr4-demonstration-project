@@ -11,6 +11,16 @@
 
 <br>
 
+This is the demo project for ANTLR4, using the C++ runtime.
+
+The project files are the same as those available in the official ANTLR4 project, in its demo directory. And also compiling with the respective demo Lexer and Parser files.
+
+The project is configured to be used on GNU/Linux operating systems.
+
+Note: your parsing control file in C++ is at: <b>project/demo/Linux/main.cpp</b>
+
+
+
 Este é o projeto de demonstração para ANTLR4, onde é gerado arquivos em C++. Os arquivos do projeto são os mesmo que estão disponíveis no projeto oficial do ANTLR4, em seu diretório de demonstração, e também compilando com os respectivos arquivos de Lexer e Parser de demonstração.
 
 O projeto está configurado para ser utilizado em sistemas operacionais GNU/Linux.
