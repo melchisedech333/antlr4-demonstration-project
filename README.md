@@ -5,10 +5,11 @@
 </div>
 
 <p align="center">
-    <br>
     <img src="https://img.shields.io/github/languages/count/melchisedech333/antlr4-demonstration-project?style=for-the-badge" >
     <img src="https://img.shields.io/github/repo-size/melchisedech333/antlr4-demonstration-project?style=for-the-badge" >
 </p>
+
+<br>
 
 Este é o projeto de demonstração para ANTLR4, onde é gerado arquivos em C++. Os arquivos do projeto são os mesmo que estão disponíveis no projeto oficial do ANTLR4, em seu diretório de demonstração, e também compilando com os respectivos arquivos de Lexer e Parser de demonstração.
 
