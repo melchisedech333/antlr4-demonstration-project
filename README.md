@@ -81,6 +81,7 @@ However the script always copies the final binary to the directory in question, 
 :smiley: Author
 ---
 
+Sponsor: [melchisedech333](https://github.com/sponsors/melchisedech333)<br>
 YouTube: [Melchisedech](https://www.youtube.com/channel/UC4Sh4wxncr5arnydpUfWPKw)<br>
 Twitter: [Melchisedech333](https://twitter.com/Melchisedech333)<br>
 Blog: [melchisedech333.github.io](https://melchisedech333.github.io/)<br>
