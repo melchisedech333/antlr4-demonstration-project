@@ -21,6 +21,9 @@ Note: your parsing control file in C++ is at: <b>project/demo/Linux/main.cpp</b>
 
 <br>
 
+:hammer_and_wrench: Installation
+---
+
 <b>Requirements:</b>
 - Java installed, version used in tests: openjdk 11.0.13 2021-10-19
 - Have the ANTLR4 Java package (it is already included inside the demo directory, file: antlr-4.9.2-complete.jar)
