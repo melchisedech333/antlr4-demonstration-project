@@ -1,16 +1,13 @@
 
-# Limpa arquivos temporários.
+# Clean up temporary files.
 rm -rf parsing
 rm -rf project/build/demo/antlr4-demo
 
-# Gera arquivos C++ do parser.
+# Generate C++ parser files.
 cd project/demo
 ./compile.sh
 
-# Edite o arquivo: project/project/Linux/main.cpp
-# Em cima dele é construido o seu parser.
-
-# Prepare o cmake e compila.
+# Prepare cmake and compile.
 cd ..
 
 ANTLR_JAR_FILE=$(pwd)/demo/antlr-4.9.2-complete.jar
@@ -25,7 +22,7 @@ echo "Compile..."
 make
 echo "Finished."
 
-# Binario compilado encontra-se em: build/demo/antlr4-demo
+# Compiled binary can be found at: build/demo/antlr4-demo
 cd demo
 cp antlr4-demo ../../../parsing
 
