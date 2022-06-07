@@ -57,7 +57,7 @@ No entando o script sempre copia o binário final para o diretório em questão,
 
 <br>
 
-### :link: Links e referências:
+:link: Links e referências
 ---
 
 - https://github.com/antlr/antlr4/blob/master/doc/cpp-target.md
