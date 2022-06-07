@@ -1,7 +1,5 @@
 <div align='center'>
 
-### ANTLR with C++ runtime
-
 <img src="extras/images/logo.jpeg" width="180" >
 
 </div>
