@@ -19,27 +19,23 @@ The project is configured to be used on GNU/Linux operating systems.
 
 Note: your parsing control file in C++ is at: <b>project/demo/Linux/main.cpp</b>
 
+<br>
 
+<b>Requirements:</b>
+- Java installed, version used in tests: openjdk 11.0.13 2021-10-19
+- Have the ANTLR4 Java package (it is already included inside the demo directory, file: antlr-4.9.2-complete.jar)
+- Have CMAKE installed, version used: 3.16.3
 
-Este é o projeto de demonstração para ANTLR4, onde é gerado arquivos em C++. Os arquivos do projeto são os mesmo que estão disponíveis no projeto oficial do ANTLR4, em seu diretório de demonstração, e também compilando com os respectivos arquivos de Lexer e Parser de demonstração.
+<br>
 
-O projeto está configurado para ser utilizado em sistemas operacionais GNU/Linux.
-
-Obs: o arquivo em C++ de controle do seu parsing está em: <b>project/demo/Linux/main.cpp</b>
-
-<b>Pré-requisitos:</b>
-- Ter o Java instalado, versão utilizada nos testes: openjdk 11.0.13 2021-10-19
-- Ter o pacote Java do ANTLR4 (o mesmo já vem incluso dentro do diretório de demonstração, arquivo: antlr-4.9.2-complete.jar)
-- Ter o CMAKE instalado, versão utilizada: 3.16.3
-
-<b>Instruções para realizar a compilação do projeto:</b>
-- Dar permissões para os arquivos:
+<b>Instructions for compiling the project:</b>
+- Give permissions to files:
 ```bash
 chmod +x clean.sh
 chmod +x clean-and-compile.sh
 chmod +x re-compile.sh
 ```
-- Executar o arquivo <b>clean-and-compile.sh</b>:
+- Run the <b>clean-and-compile.sh</b> file:
 ```bash
 ./clean-and-compile.sh
 ```
@@ -60,5 +56,24 @@ No entando o script sempre copia o binário final para o diretório em questão,
 - https://github.com/antlr/antlr4/blob/master/doc/cpp-target.md
 - https://github.com/antlr/antlr4/blob/master/runtime/Cpp/demo/README.md
 - https://github.com/antlr/antlr4/blob/master/runtime/Cpp/README.md
+
+<br>
+
+:smiley: Author
+---
+
+YouTube: [Melchisedech](https://www.youtube.com/channel/UC4Sh4wxncr5arnydpUfWPKw)<br>
+Twitter: [Melchisedech333](https://twitter.com/Melchisedech333)<br>
+Blog: [melchisedech333.github.io](https://melchisedech333.github.io/)<br>
+LinkedIn: [Melchisedech Rex](https://www.linkedin.com/in/melchisedech-rex-724152235/)
+
+<img src="https://github.com/melchisedech333.png?size=200" height="100" />
+
+<br>
+
+:scroll: License
+---
+
+[ BSD-3-Clause license](./LICENSE.txt) © Verbum Paper
 
 
