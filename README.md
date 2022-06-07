@@ -4,11 +4,10 @@
 
 <img src="extras/images/logo.jpeg" width="180" >
 
-<br>
-
 </div>
 
 <p align="center">
+    <br>
     <img src="https://img.shields.io/github/languages/count/melchisedech333/antlr4-demonstration-project?style=for-the-badge" >
     <img src="https://img.shields.io/github/repo-size/melchisedech333/antlr4-demonstration-project?style=for-the-badge" >
 </p>
