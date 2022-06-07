@@ -53,17 +53,17 @@ chmod +x re-compile.sh
 ./clean-and-compile.sh
 ```
 
-Após a compilação ser bem-sucedida será gerado o arquivo do binário em: <b>project/build/demo/antlr4-demo</b>.
-No entando o script sempre copia o binário final para o diretório em questão, renomeando o mesmo para <b>parsing</b>.
+After the compilation is successful, the binary file will be generated in: <b>project/build/demo/antlr4-demo</b>.
+However the script always copies the final binary to the directory in question, renaming it to <b>parsing</b>.
 
-<b>Descrição dos arquivos:</b>
-- clean.sh - Limpa todos os arquivos temporários e arquivos de compilação.
-- clean-and-compile.sh - Limpa todos os arquivos e reconstrói binários do projeto.
-- re-compile.sh - Limpa arquivos temporários e reconstrói projeto sem necessitar recompilá-lo como um todo.
-- project/ - diretório contendo todos os arquivos do projeto.
-- project/demo/TLexer.g4 - Arquivo Lexer.
-- project/demo/TParser.g4 - Arquivo Parser.
-- project/demo/Linux/main.cpp - Arquivo C++ de controle do parser.
+<b>Description of files:</b>
+- clean.sh - Clears all temporary files and build files.
+- clean-and-compile.sh - Cleans all files and rebuilds project binaries.
+- re-compile.sh - Clean up temporary files and rebuild the project without having to recompile it as a whole.
+- project/ - directory containing all project files.
+- project/demo/TLexer.g4 - Lexer file.
+- project/demo/TParser.g4 - Parser file.
+- project/demo/Linux/main.cpp - C++ parser control file.
 
 <br>
 
