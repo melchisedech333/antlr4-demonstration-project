@@ -55,7 +55,11 @@ No entando o script sempre copia o binário final para o diretório em questão,
 - project/demo/TParser.g4 - Arquivo Parser.
 - project/demo/Linux/main.cpp - Arquivo C++ de controle do parser.
 
-<b>Links e referências:</b>
+<br>
+
+### :link: Links e referências:
+---
+
 - https://github.com/antlr/antlr4/blob/master/doc/cpp-target.md
 - https://github.com/antlr/antlr4/blob/master/runtime/Cpp/demo/README.md
 - https://github.com/antlr/antlr4/blob/master/runtime/Cpp/README.md
