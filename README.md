@@ -1,9 +1,9 @@
-<p align='center'>
+<div align='center'>
 
 ### ANTLR with C++ runtime
 
 <img src="extras/images/logo.jpeg" width="180" >
-</p>
+</div>
 
 <p align="center">
     <img src="https://img.shields.io/github/languages/count/melchisedech333/antlr4-demonstration-project?style=for-the-badge" >
