@@ -1,7 +1,8 @@
-### :arrow_right: Utilizando ANTLR4 e gerando runtime em C++
-
 <p align='center'>
-    <img src="extras/images/logo.jpeg" width="180" >
+
+### ANTLR with C++ runtime
+
+<img src="extras/images/logo.jpeg" width="180" >
 </p>
 
 <p align="center">
