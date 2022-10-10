@@ -37,36 +37,35 @@ Obs: o arquivo de parser em C++ está localizado em <b>project/demo/Linux/main.c
 :hammer_and_wrench: Instalação
 ---
 
-<b>Requirements:</b>
-- Java installed, version used in tests: openjdk 11.0.13 2021-10-19
-- Have the ANTLR4 Java package (it is already included inside the demo directory, file: antlr-4.9.2-complete.jar)
+<b>Requisitos:</b>
+- Java: openjdk 11.0.13 2021-10-19
+- Pacote Java ANTLR4 (ele já está incluído no diretório <b>/project/demo/antlr-4.9.2-complete.jar</b>)
 - Have CMAKE installed, version used: 3.16.3
 
 <br>
 
-<b>Instructions for compiling the project:</b>
-- Give permissions to files:
+<b>Instruções para compilar o projeto:</b>
+- Dê permissões para os arquivos:
 ```bash
 chmod +x clean.sh
 chmod +x clean-and-compile.sh
 chmod +x re-compile.sh
 ```
-- Run the <b>clean-and-compile.sh</b> file:
+- Execute o arquivo <b>clean-and-compile.sh</b>:
 ```bash
 ./clean-and-compile.sh
 ```
 
-After the compilation is successful, the binary file will be generated in: <b>project/build/demo/antlr4-demo</b>.
-However the script always copies the final binary to the directory in question, renaming it to <b>parsing</b>.
+Após a compilação terminar, vai ser gerado um arquivo binário no diretório: <b>project/build/demo/antlr4-demo</b>. No entanto o script de compilação sempre copia o arquivo binário para o diretório em questão, renomeando-o para <b>parsing</b>.
 
-<b>Description of files:</b>
-- clean.sh - Clears all temporary files and build files.
-- clean-and-compile.sh - Cleans all files and rebuilds project binaries.
-- re-compile.sh - Clean up temporary files and rebuild the project without having to recompile it as a whole.
-- project/ - directory containing all project files.
-- project/demo/TLexer.g4 - Lexer file.
-- project/demo/TParser.g4 - Parser file.
-- project/demo/Linux/main.cpp - C++ parser control file.
+<b>Descrições dos arquivos:</b>
+- clean.sh - Limpa todos os arquivos temporários e gerados na compilação.
+- clean-and-compile.sh - Limpa todos os arquivos e recompila o projeto.
+- re-compile.sh - Limpa os arquivos temporários e compila o projeto, mas não precisando recompilá-lo inteiramente.
+- project/ - Diretório que contêm os arquivos do projeto.
+- project/demo/TLexer.g4 - Arquivo Lexer.
+- project/demo/TParser.g4 - Arquivo Parser.
+- project/demo/Linux/main.cpp - Arquivo C++ de controle do parser.
 
 <br>
 
