@@ -27,15 +27,14 @@ Obs: o arquivo de parser em C++ está localizado em <b>project/demo/Linux/main.c
 
 :bookmark_tabs: Sumário
 -----
-- [:bookmark_tabs: Sumário](#bookmark_tabs-sumário)
-- [:hammer_and_wrench: Installation](#hammer_and_wrench-installation)
-- [:link: References and Links](#link-references-and-links)
-- [:smiley: Author](#smiley-author)
+- [:hammer_and_wrench: Instalação](#hammer_and_wrench-instalação)
+- [:link: Referências e Links](#link-referências-e-links)
+- [:smiley: Autor](#smiley-autor)
 -----
 
 <br>
 
-:hammer_and_wrench: Installation
+:hammer_and_wrench: Instalação
 ---
 
 <b>Requirements:</b>
@@ -71,7 +70,7 @@ However the script always copies the final binary to the directory in question, 
 
 <br>
 
-:link: References and Links
+:link: Referências e Links
 ---
 
 - https://github.com/antlr/antlr4/blob/master/doc/cpp-target.md
@@ -80,10 +79,10 @@ However the script always copies the final binary to the directory in question, 
 
 <br>
 
-:smiley: Author
+:smiley: Autor
 ---
 
-Sponsor: [melchisedech333](https://github.com/sponsors/melchisedech333)<br>
+Patrocinar: [melchisedech333](https://github.com/sponsors/melchisedech333)<br>
 YouTube: [Melchisedech](https://www.youtube.com/channel/UC4Sh4wxncr5arnydpUfWPKw)<br>
 Twitter: [Melchisedech333](https://twitter.com/Melchisedech333)<br>
 Blog: [melchisedech333.github.io](https://melchisedech333.github.io/)<br>
