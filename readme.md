@@ -30,6 +30,7 @@ Note: your parsing control file in C++ is at: <b>project/demo/Linux/main.cpp</b>
 - [:hammer_and_wrench: Installation](#hammer_and_wrench-installation)
 - [:link: References and Links](#link-references-and-links)
 - [:smiley: Author](#smiley-author)
+- [:scroll: License](#scroll-license)
 -----
 
 <br>
@@ -91,5 +92,10 @@ LinkedIn: [Melchisedech Rex](https://www.linkedin.com/in/melchisedech-rex-724152
 <img src="https://github.com/melchisedech333.png?size=200" height="100" />
 
 <br>
+
+:scroll: License
+---
+
+[ BSD-3-Clause license](./license)
 
 

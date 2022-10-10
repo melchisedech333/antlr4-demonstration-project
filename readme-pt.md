@@ -30,6 +30,7 @@ Obs: o arquivo de parser em C++ está localizado em <b>project/demo/Linux/main.c
 - [:hammer_and_wrench: Instalação](#hammer_and_wrench-instalação)
 - [:link: Referências e Links](#link-referências-e-links)
 - [:smiley: Autor](#smiley-autor)
+- [:scroll: Licença](#scroll-licença)
 -----
 
 <br>
@@ -90,5 +91,10 @@ LinkedIn: [Melchisedech Rex](https://www.linkedin.com/in/melchisedech-rex-724152
 <img src="https://github.com/melchisedech333.png?size=200" height="100" />
 
 <br>
+
+:scroll: Licença
+---
+
+[ BSD-3-Clause license](./license)
 
 
