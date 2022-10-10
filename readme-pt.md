@@ -11,24 +11,28 @@
 
 <br>
 
-This is the demo project for ANTLR4, using the C++ runtime.
+Language: <a href="readme.md">EN-US</a>
 
-The project files are the same as those available in the official ANTLR4 project, in its demo directory. And also compiling with the respective demo Lexer and Parser files.
+Este é um projeto de demonstração de como utilizar o ANTLR4 com a C++ runtime.
 
-The project is configured to be used on GNU/Linux operating systems.
+Os arquivos do projeto são os mesmos disponíveis no projeto oficial do ANTLR4, em seu diretório de demonstração. Também preservei os mesmos arquivos Lexer e Parser utilizados no repositório oficial.
 
-Note: your parsing control file in C++ is at: <b>project/demo/Linux/main.cpp</b>
+Este projeto está configurado para ser usado em sistemas Linux.
 
-**If my code has helped you, please consider [sponsoring me](https://github.com/sponsors/melchisedech333) :blue_heart:** 
+Obs: o arquivo de parser em C++ está localizado em <b>project/demo/Linux/main.cpp</b>.
+
+**Se meu código te ajudou em algo, considere [me patrocinar](https://github.com/sponsors/melchisedech333) :blue_heart:** 
 
 <br>
 
-:bookmark_tabs: Table of Contents
+:bookmark_tabs: Sumário
 -----
-* [Installation](#hammer_and_wrench-installation)
-* [References and Links](#link-references-and-links)
-* [Author](#smiley-author)
-* [License](#scroll-license)
+- [:bookmark_tabs: Sumário](#bookmark_tabs-sumário)
+- [- :scroll: License](#--scroll-license)
+- [:hammer_and_wrench: Installation](#hammer_and_wrench-installation)
+- [:link: References and Links](#link-references-and-links)
+- [:smiley: Author](#smiley-author)
+- [:scroll: License](#scroll-license)
 -----
 
 <br>
