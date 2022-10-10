@@ -28,7 +28,6 @@ Obs: o arquivo de parser em C++ está localizado em <b>project/demo/Linux/main.c
 :bookmark_tabs: Sumário
 -----
 - [:bookmark_tabs: Sumário](#bookmark_tabs-sumário)
-- [- :smiley: Author](#--smiley-author)
 - [:hammer_and_wrench: Installation](#hammer_and_wrench-installation)
 - [:link: References and Links](#link-references-and-links)
 - [:smiley: Author](#smiley-author)

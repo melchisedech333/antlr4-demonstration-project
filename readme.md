@@ -28,7 +28,6 @@ Note: your parsing control file in C++ is at: <b>project/demo/Linux/main.cpp</b>
 :bookmark_tabs: Table of Contents
 -----
 - [:bookmark_tabs: Table of Contents](#bookmark_tabs-table-of-contents)
-- [- :scroll: License](#--scroll-license)
 - [:hammer_and_wrench: Installation](#hammer_and_wrench-installation)
 - [:link: References and Links](#link-references-and-links)
 - [:smiley: Author](#smiley-author)
