@@ -4,9 +4,17 @@
 
 </div>
 
+<br>
+
 <p align="center">
-    <img src="https://img.shields.io/github/languages/count/melchisedech333/antlr4-demonstration-project?style=for-the-badge" >
-    <img src="https://img.shields.io/github/repo-size/melchisedech333/antlr4-demonstration-project?style=for-the-badge" >
+    <a href="https://github.com/sponsors/melchisedech333"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" ></a>
+    <br><br>
+    <img src="https://badgen.net/badge/love level/7 of 10/purple" >
+    <img src="https://img.shields.io/github/languages/count/melchisedech333/antlr4-demonstration-project?color=%23f34b7d" >
+    <img src="https://img.shields.io/github/languages/top/melchisedech333/antlr4-demonstration-project?color=%23f34b7d" >
+    <img src="https://img.shields.io/github/directory-file-count/melchisedech333/antlr4-demonstration-project" >
+    <img src="https://img.shields.io/github/repo-size/melchisedech333/antlr4-demonstration-project" >
+    <img src="https://img.shields.io/github/license/melchisedech333/antlr4-demonstration-project" >
 </p>
 
 <br>
