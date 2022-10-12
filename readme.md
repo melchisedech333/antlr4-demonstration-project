@@ -106,4 +106,12 @@ LinkedIn: [Melchisedech Rex](https://www.linkedin.com/in/melchisedech-rex-724152
 
 [ BSD-3-Clause license](./license)
 
+<br><br>
+
+<div align="center">
+
+## Remember to give me <br> a beautiful little star :star_struck:
+
+</div>
+
 
