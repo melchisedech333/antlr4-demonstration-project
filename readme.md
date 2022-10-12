@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img src="extras/images/banner-2.jpg" >
+<img src="extras/images/banner-2.jpg?v=123" >
 
 </div>
 
